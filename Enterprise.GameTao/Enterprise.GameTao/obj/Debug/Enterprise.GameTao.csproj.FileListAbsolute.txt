@@ -1,0 +1,8 @@
+C:\_Git\CSharpGameTao\Enterprise.GameTao\Enterprise.GameTao\bin\Debug\Enterprise.GameTao.exe.config
+C:\_Git\CSharpGameTao\Enterprise.GameTao\Enterprise.GameTao\bin\Debug\Enterprise.GameTao.exe
+C:\_Git\CSharpGameTao\Enterprise.GameTao\Enterprise.GameTao\bin\Debug\Enterprise.GameTao.pdb
+C:\_Git\CSharpGameTao\Enterprise.GameTao\Enterprise.GameTao\obj\Debug\Enterprise.GameTao.csprojResolveAssemblyReference.cache
+C:\_Git\CSharpGameTao\Enterprise.GameTao\Enterprise.GameTao\obj\Debug\Enterprise.GameTao.Properties.Resources.resources
+C:\_Git\CSharpGameTao\Enterprise.GameTao\Enterprise.GameTao\obj\Debug\Enterprise.GameTao.csproj.GenerateResource.Cache
+C:\_Git\CSharpGameTao\Enterprise.GameTao\Enterprise.GameTao\obj\Debug\Enterprise.GameTao.exe
+C:\_Git\CSharpGameTao\Enterprise.GameTao\Enterprise.GameTao\obj\Debug\Enterprise.GameTao.pdb
